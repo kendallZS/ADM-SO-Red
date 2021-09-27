@@ -1,0 +1,11 @@
+En cuanto al FTP...
+Nosotros usamos muhco uno en el curso de sitios web que se llama
+filezilla que vendría siendo un cliente FTP, y es una 
+aplicación que se puede ver afectada
+por este tipo de metodos de hackeo porque requiere de 
+credenciales para poderlo utilizar, y lo usamos mucho para
+conectarnos a un hosting y transferirle archivos o proyectos
+web
+y realmente cualquier sitio o app que requiera de una autenticacion
+corre el riesgo de sufrir este tipo de hackeos, Ya depende de
+la seguridad que tenga.
